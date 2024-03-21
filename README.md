@@ -2,7 +2,7 @@ Cannacoin integration/staging tree
 ================================
 [![walletscreenshot.png](https://i.postimg.cc/x8sKKCh7/walletscreenshot.png)](https://postimg.cc/GTy8RccJ)
 
-http://www.cannacoin.org
+https://cannacoin.org
 
 Copyright (c) 2009-2014 Bitcoin 
 
@@ -33,7 +33,7 @@ the Proof-of-Work (PoW) hash algorithm.
  - Difficulty retarget: Every block using Kimoto's gravity well
 
 For more information, as well as an immediately useable, binary version of
-the Cannacoin wallet client, please visit http://www.cannacoin.cc.
+the Cannacoin wallet client, please visit https://cannacoin.org.
 
 License
 -------
