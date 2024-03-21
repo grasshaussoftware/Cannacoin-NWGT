@@ -1,8 +1,8 @@
 Cannacoin integration/staging tree
 ================================
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Cannacoin-Project/Cannacoin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![walletscreenshot.png](https://i.postimg.cc/x8sKKCh7/walletscreenshot.png)](https://postimg.cc/GTy8RccJ)
 
-http://www.cannacoin.com
+http://www.cannacoin.org
 
 Copyright (c) 2009-2014 Bitcoin 
 
